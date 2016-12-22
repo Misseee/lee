@@ -1,0 +1,4 @@
+#!/usr/bin/perl -w
+$DNA='ACGT';
+print $DNA;
+exit;
